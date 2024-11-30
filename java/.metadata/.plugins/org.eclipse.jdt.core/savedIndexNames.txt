@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+D:\Documentos\UEA\2024-2\APS\design patern\java\.metadata\.plugins\org.eclipse.jdt.core
-3288147116.index
-1536354102.index
-1865797976.index

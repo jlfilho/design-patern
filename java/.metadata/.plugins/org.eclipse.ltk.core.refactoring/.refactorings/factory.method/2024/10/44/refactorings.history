@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename compilation unit &apos;factory.method.TransportFactory.java&apos; to &apos;Main.java&apos;&#x0D;&#x0A;- Original project: &apos;factory.method&apos;&#x0D;&#x0A;- Original element: &apos;factory.method.TransportFactory.java&apos;&#x0D;&#x0A;- Renamed element: &apos;factory.method.Main.java&apos;" description="Rename compilation unit &apos;TransportFactory.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/&lt;factory.method{TransportFactory.java" name="Main.java" references="false" stamp="1730263561755" version="1.0"/>
-</session>
